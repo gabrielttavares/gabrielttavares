@@ -15,9 +15,9 @@ I'm a Software Developer who works professionally on building user-friendly web 
 
 ---
 
-🔭 I’m currently working as a `Mobile Developer` at **MCPark**.\
-🌱 **Currently learning:** DevOps, System design, Cloud services.\
-📫 You can **reach out to me at:** [gabrieltxtavares@gmail.com](mailto:gabrieltxtavares@gmail.com) // or send me a message at [LinkedIn](https://www.linkedin.com/in/gabrielttavares/)
+* I’m currently working as a `Mobile Developer` at **MCPark**.\
+* **Currently learning:** DevOps, System design, Cloud services.\
+* You can **reach out to me at:** [gabrieltxtavares@gmail.com](mailto:gabrieltxtavares@gmail.com) // or send me a message at [LinkedIn](https://www.linkedin.com/in/gabrielttavares/)
 
 🚀 **Current Projects:**
 
