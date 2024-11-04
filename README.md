@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm a Software Developer who works professionally on building user-friendly web and mobile solutions, focusing on scalable and robust full-stack applications, with a focus on cross-platform mobile development.
+I'm a Software Developer who works professionally on building user-friendly web and mobile solutions, focusing on scalable and robust full-stack applications.
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
