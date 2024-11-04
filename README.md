@@ -10,7 +10,6 @@ I'm a Software Developer who works professionally on building user-friendly web 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
   <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Node.js logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/>
 </p>
 
 ---
