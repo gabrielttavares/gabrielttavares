@@ -14,7 +14,7 @@ I'm a Software Developer who works professionally on building user-friendly web 
 
 ---
 
-* I’m currently working as a `Mobile Developer` at **MCPark**.
+* I’m currently working as a `Software Developer` at **MCPark**.
 * **Currently learning:** DevOps, System design, Cloud services.
 
 Cheers!
