@@ -7,14 +7,11 @@ I'm a Software Developer who works professionally on building user-friendly web 
   <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Node.js logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> &nbsp;•&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart logo" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> 
   
 </p>
 
 ---
 
-* I’m currently working as a `Software Developer` at **MCPark**.
-* **Currently learning:** DevOps, System design, Cloud services.
+* **Currently working** as a `Software Developer` at **MCPark**.
 
 Cheers!
