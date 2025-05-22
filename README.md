@@ -1,5 +1,3 @@
-## Hello there!
-
 I'm a Software Developer who works professionally on building user-friendly web and mobile solutions, focusing on scalable and robust full-stack applications.
 
 <p align="left">
