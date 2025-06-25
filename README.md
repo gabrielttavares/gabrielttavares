@@ -8,6 +8,6 @@
 
 ---
 
-* **Currently working** as a `Software Developer` at **MCPark**.
+* **Currently working** as a `Backend Developer` at **MCPark**.
 
 Cheers!
