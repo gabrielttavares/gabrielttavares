@@ -10,6 +10,6 @@
 
 ---
 
-* **Currently working** as a `Software Developer` at **MCPark**.
+* **Currently working** as a `Software Engineer` at **IEBT Innovation**.
 
 Cheers!
