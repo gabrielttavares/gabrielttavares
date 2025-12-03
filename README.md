@@ -9,6 +9,6 @@
 
 ---
 
-* **Currently working** as a `Software Engineer` at **IEBT Innovation**.
+* **Currently working** as a `Software Engineer` at **Exadel**.
 
 Cheers!
