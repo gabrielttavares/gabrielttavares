@@ -7,6 +7,6 @@
 
 ---
 
-* **Currently working** as a `Software Engineer` at **Exadel / BTG Pactual**.
+* **Currently working** as a `Senior Software Engineer` at **Exadel / BTG Pactual**.
 
 Cheers!
