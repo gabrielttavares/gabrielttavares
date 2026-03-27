@@ -2,6 +2,6 @@
 
 ---
 
-* **Currently working** as a `Senior Software Engineer` at **Exadel / BTG Pactual**.
+* **Currently working** as a `Senior Software Engineer` at **CBS Interactive / Paramount**.
 
 Cheers!
